@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web design.
 - 🌱 I’m currently learning HTML5 & CSS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me a mail: michel.a.gonzalez@gmail.com
 
 <!---
 FeniX169/FeniX169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
